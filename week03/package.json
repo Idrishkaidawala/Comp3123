@@ -1,0 +1,37 @@
+{
+  "name": "lab03",
+  "version": "1.0.0",
+  "description": "Lab 03",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon ./index.js localhost 8081"
+  },
+  "keywords": [
+    "sample",
+    "js",
+    "html",
+    "node",
+    "express",
+    "framework",
+    "sinatra",
+    "web",
+    "rest",
+    "restful",
+    "router",
+    "app",
+    "api"
+  ],
+  "author": {
+    "name": "Pritesh Patel",
+    "email": "sample@gb.ca"
+  },
+  "homepage": "https://nodejs.org/",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
